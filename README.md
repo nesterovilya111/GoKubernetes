@@ -105,7 +105,6 @@ gcr.io/kuar-demo/kuard-amd64:v0.9-purple
 gcr.io/kuar-demo/kuard-amd64:purple
 ```
 
-For documentation where you want to demonstrate using versions but use the latest version of this server, you can simply reference `gcr.io/kuar-demo/kuard-amd64:blue`.  You can then demonstrate an upgrade with `gcr.io/kuar-demo/kuard-amd64:green`.
 
 (Another way to think about it is that `:blue` is essentially `:latest-blue`)
 
